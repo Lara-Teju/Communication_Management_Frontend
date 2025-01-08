@@ -1,4 +1,4 @@
-# Communication/Event Module
+# Communication Module
 
 ## Overview
 The **Communication/Event Module** is a Flutter-based application designed to streamline the event management process. The module integrates a calendar interface to create and view events, and it is connected to the **Membership Management System**. When events are created, the system automatically sends invitation emails to members based on their preferences. Once a member accepts the invitation, their details are added to the event's attendee list. The backend uses **MongoDB** to store event and member data.
